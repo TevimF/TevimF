@@ -3,18 +3,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TevimF&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TevimF&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=TevimF&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://cdn.fastly.steamstatic.com/steamcommunity/public/images/items/105600/bf1acd0a0e0b6d5df2f538f94026d629e53909e6.gif"  />
-
-###
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="cplusplus logo"  />
@@ -69,14 +57,13 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/TevimF/TevimF/output/snake.svg" alt="Snake animation" />
+<img align="right" height="" src="https://cdn.fastly.steamstatic.com/steamcommunity/public/images/items/105600/bf1acd0a0e0b6d5df2f538f94026d629e53909e6.gif"  />
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/TevimF/count.svg?"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=TevimF&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TevimF&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
