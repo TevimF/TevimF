@@ -1,4 +1,4 @@
-<h2 align="center">Hi There👋! My name is Estêvão Felipe and I'm a Information Systems student seeking a career as a Software Engineer, from UFMG - Brazil</h2>
+<h2 align="center">Hi There 👋 ! My name is Estêvão Felipe and I'm a Information Systems student seeking a career as a Software Engineer, from UFMG - Brazil</h2>
 
 ###
 
