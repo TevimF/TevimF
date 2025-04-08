@@ -1,3 +1,4 @@
+
 <h2 align="center">Hi There 👋 ! My name is Estêvão Felipe and I'm a Information Systems student seeking a career as a Software Engineer, from UFMG - Brazil</h2>
 
 ###
@@ -31,10 +32,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/discord/5865F2" height="50" alt="discord logo"  />
 </div>
-
-###
-
-<img align="right" height="200" src="https://cdn.fastly.steamstatic.com/steamcommunity/public/images/items/105600/bf1acd0a0e0b6d5df2f538f94026d629e53909e6.gif"  />
 
 ###
 
